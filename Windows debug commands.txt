@@ -6,7 +6,7 @@ Make a folder with name "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}" save it
 2.Services menu(Dont mess if you dont know about the program)
 Run this command "services.msc" or and you can change the startup services.
 
-3.Boot safely and other boot options
+3.Boot safely and other boot options(DON"T MESS UNNECESSARILY OR YOU CAN SAY BYE BYE TO WINDOWS
 Run "msconfig" config to fix your boot and other problems like malware that might run so you can select specific options to only start windows with default safe programs.
 
 4.Edit group policy 
@@ -23,6 +23,9 @@ Now this account is active login to it and then disable after work is done.
 Usefull cmd commands 
 ipconfig
 ping
+tracert
+dxdiag
+winver
 
 
 
