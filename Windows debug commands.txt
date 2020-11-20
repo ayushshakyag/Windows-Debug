@@ -1,24 +1,24 @@
 NOT GOING TO COVER SOME TOOLS THAT ARE EASILY ACCESSBILE.
 
-1. GOD MODE  
-Make a folder with name "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}" save it . It should change the icon to something just like that of control panel. It will give a lot of settings that you will have to make effort to find in windows.
+1. GOD MODE  
+Make a folder with name "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}" save it . It should change the icon to something just like that of the control panel. It will give a lot of settings that you will have to make effort to find in windows.
 
-2.Services menu(Dont mess if you dont know about the program)
+2.Services menu(Don't mess if you don't know about the program)
 Run this command "services.msc" or and you can change the startup services.
 
 3.Boot safely and other boot options(DON"T MESS UNNECESSARILY OR YOU CAN SAY BYE BYE TO WINDOWS
 Run "msconfig" config to fix your boot and other problems like malware that might run so you can select specific options to only start windows with default safe programs.
 
 4.Edit group policy 
-It's used mainly in offices or schools. Control who have access to administrator controls.
+It's used mainly in offices or schools. Controls who have access to administrator controls.
 
 5.Run shell:startup command.(Make your own scripts run after windows run.)
-You can find some startup programs here. You can add your own scripts to run after system starts up.
+You can find some startup programs here. You can add your own scripts to run after the system starts up.
 
 6.SUPER USER or SUPER ADMIN account(Only use if original admin account not working)
 Boot into safe mode and run cmd as administrator.
 Type this command "net user administrator /active:yes"
-Now this account is active login to it and then disable after work is done.
+Now, this account is active login to it and then disable after work is done.
 
 Usefull cmd commands 
 ipconfig
@@ -26,7 +26,6 @@ ping
 tracert
 dxdiag
 winver
-
 
 
 
