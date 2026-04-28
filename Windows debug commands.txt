@@ -24,6 +24,8 @@ Boot into safe mode and run cmd as administrator.
 Type this command "net user administrator /active:yes"
 Now, this account is active login to it and then disable after work is done.
 
+7. Open CMD and type "winget upgrade" to check updates for all softwares, and to update all "winget upgrade --all"
+
 Usefull cmd commands 
 ipconfig
 ping
